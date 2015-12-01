@@ -1,0 +1,37 @@
+/* stylesheet.css
+ * CSS sheet for the Alarm Clock
+ * Made on 01-12-2015
+ * By GeOdin
+ */
+
+body {
+	background-color: white;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+#wholePage {
+	height: 97.75vh;
+	width: 100%;
+}
+
+#title {
+	display: block;
+	position: relative;
+	top: 25vh;
+}
+
+#mainTitle {
+	display: block;
+	font-size: 10em;
+	color: #A0A0A0;
+}
+
+#dateTime {
+	display: block;
+	font-size: 5em;
+	color: #B0B0B0;
+}
